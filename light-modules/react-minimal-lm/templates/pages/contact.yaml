@@ -1,6 +1,6 @@
 title: 'React: Contact'
-baseUrl: http://localhost:3000
-routeTemplate: '/{language}{{@path}}'
+# baseUrl: http://localhost:3000
+# routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic
 
