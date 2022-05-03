@@ -1,4 +1,4 @@
 name: default
-  templates:
-    prototype:
-      class: info.magnolia.pages.spa.template.SpaPrototypeTemplateDefinition
+templates:
+  prototype:
+    class: info.magnolia.pages.spa.template.SpaPrototypeTemplateDefinition
